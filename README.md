@@ -1,2 +1,40 @@
 # 💫 About Me:
-Hi there! I'm a data scientist who's all about turning data into insights and making informed decisions. With expertise in Python, SQL, Tableau, Microsoft Power BI, Numpy, and Pandas, I've got the skills you need to transform your data into actionable insights.<br><br>As a Python expert, I have experience working with large datasets, and I use my expertise in Python to clean, preprocess, and analyze data. And when it comes to SQL, I'm your go-to person for writing complex queries and loading data from databases. I'm also a master of data visualization, using Tableau and Microsoft Power BI to create compelling visuals that tell a story.<br><br>Whether it's statistical analysis, machine learning, or predictive modeling, I've got you covered. I've worked on a wide range of projects, and I'm always up for a challenge. But most importantly, I believe that effective communication is key. That's why I'm always looking for new ways to present data in a way that's easy to understand.<br><br>In conclusion, I'm a data scientist with expertise in Python, SQL, Tableau, Microsoft Power BI, Numpy, and Pandas. I have experience working on a wide range of projects, and I'm always looking for new challenges. If you're looking for someone who can turn your data into insights, I'm the person for you. Let's connect and discuss how I can help you with your data needs!
+
+# Muhammad Atique Qayum
+
+Data Engineer | Data Analyst
+
+Python • SQL • Apache Airflow • ETL Pipelines • Data Engineering • Data Analytics
+
+Computer Science graduate transitioning from academic data operations into data engineering.
+
+My career journey:
+From university administration to data analytics and now data engineering.
+My career started working with academic data in a university environment, which sparked my interest in understanding how data can be organized, analyzed, and transformed into insights. 
+Over time, I transitioned into data analytics, working with Amazon marketplace datasets, and eventually moved toward data engineering — focusing on Python, SQL, ETL pipelines, and data workflows.
+Currently a Data Analyst at Jinnah Sindh Medical University, continuing to build skills in data pipelines and scalable data systems.
+Always curious about data and always learning.
+
+
+## Technical Skills
+
+Python  
+SQL  
+ETL Pipelines  
+Apache Airflow  
+PostgreSQL  
+Snowflake  
+Docker  
+AWS  
+Google Cloud Platform  
+
+## Current Focus
+
+Building scalable data pipelines  
+Workflow orchestration with Airflow  
+Cloud-based data engineering systems  
+
+## Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/atiqueqayum
+Email: atiqueqayum@gmail.com
